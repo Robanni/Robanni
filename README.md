@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/ResurrectedRobanni">TG</a>
+  <a href="https://t.me/ResurrectedRobanni"><img src="https://simpleicons.org/icons/telegram.svg" width="40" height="40" alt="Telegram"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
