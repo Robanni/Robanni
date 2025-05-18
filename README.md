@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a herf="https://t.me/ResurrectedRobanni">TG</a>
+  <a href="https://t.me/ResurrectedRobanni">TG</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
